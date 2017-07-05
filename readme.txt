@@ -8,4 +8,3 @@ Creating a new branch is quick & simple.
 =======
 Create a new branch named feature.
 >>>>>>> feature
-Creating a new branch is quick and simple.
